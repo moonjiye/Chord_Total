@@ -1,0 +1,5 @@
+.CateList {
+  min-height: 320px; // 내용이 적더라도 최소 320px 유지
+  max-height: 513px; // 내용이 많더라도 최대 513px 유지
+  overflow-y: auto; // 지정한 높이를 초과할 때 수직 스크롤바 생김
+}

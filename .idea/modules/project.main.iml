@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../src/main" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/build/static/css" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@kurkle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-array" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-color" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-ease" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-interpolate" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-path" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-scale" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-shape" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-time" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/d3-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/@types/svg-path-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/chart.js" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/clsx" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-array" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-color" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-ease" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-format" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-interpolate" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-path" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-scale" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-shape" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-time" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-time-format" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/d3-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/decimal.js-light" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/dom-helpers" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/fast-equals" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/internmap" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/quill/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/react-chartjs-2" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/react-lifecycles-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/react-minimal-pie-chart" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/react-smooth" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/react-transition-group" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/recharts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/recharts-scale" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/tiny-invariant" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/main/react/node_modules/victory-vendor" />
+    </content>
+  </component>
+</module>
